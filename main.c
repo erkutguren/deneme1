@@ -7,6 +7,7 @@ int main()
     printf("Helloooo!\n");
     printf("Erkuuuut\n");
     printf("GUREN\n");
+    printf("build yaptýktan sonra bir iki birsey.\n");
 
     return 0;
 }
