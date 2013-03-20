@@ -3,6 +3,10 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("I just came to say hello!\n");
+    printf("Helloooo!\n");
+    printf("Erkuuuut\n");
+    printf("GUREN\n");
+
     return 0;
 }
